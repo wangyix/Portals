@@ -27,7 +27,7 @@ D3DApp::D3DApp(HINSTANCE hInstance)
 :	mhAppInst(hInstance),
 	mMainWndCaption(L"D3D11 Application"),
 	md3dDriverType(D3D_DRIVER_TYPE_HARDWARE),
-	mClientWidth(1280),
+	mClientWidth(2560),
 	mClientHeight(720),
 	mEnable4xMsaa(false),
 	mhMainWnd(0),
