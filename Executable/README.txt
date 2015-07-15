@@ -26,28 +26,30 @@ at a different orientation than the other portal.
 CONTROLS ----------------------------------------------------------------------
 
 Screen select:
-	'1' - switch control over to left screen
-	'2' - switch control over to right screen
+    '1' - switch control over to left screen
+    '2' - switch control over to right screen
 
 Movement:
-	Hold and drag left mouse to look around
-	'w' - move forward
-	's' - move back
-	'a' - move left
-	'd' - move right
-	Shift - hold to sprint
+    Hold and drag left mouse to look around
+    'w' - move forward
+    's' - move back
+    'a' - move left
+    'd' - move right
+    'Space' - ascend
+    'Ctrl'  - descend
+    Shift   - hold to sprint
 
 Portal:
-	'o' - switch control to orange portal
-	'b' - switch control to blue portal
-	
-	Hold and drag right mouse to move portal to where you're aiming
-	Left arrow - rotate portal CCW
-	Right arrow - rotate portal CW
-	Up arrow - increase portal size
-	Down arrow - decrease portal size
+    'o' - switch control to orange portal
+    'b' - switch control to blue portal
+    
+    Hold and drag right mouse to move portal to where you're aiming
+    Left arrow - rotate portal CCW
+    Right arrow - rotate portal CW
+    Up arrow - increase portal size
+    Down arrow - decrease portal size
 
-	
+    
 CREATING A CUSTOM ROOM --------------------------------------------------------
 
 The program generates the room at runtime from the "room.txt" file in the

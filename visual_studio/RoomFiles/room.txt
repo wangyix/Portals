@@ -1,0 +1,53 @@
+# left camera start location
+0 5 -5
+
+# player radius, start location
+2
+5 4 -5
+
+# orange portal radius, location, normal, up
+3
+5 4000 0
+0 0 -1
+0 1 0
+
+# blue portal radius, location, normal, up
+3
+5 4000 -15
+0 0 1
+0 -1 0
+
+# floor, ceiling
+0 20	
+
+#perimeter
+4
+-20 -15
+20 -15
+20 15
+-20 15
+
+# columns
+4
+15 	5
+15.05 	5
+15.05 	-5
+15 	-5
+
+4
+0	0
+0	0.05
+10	0.05
+10	0
+
+4
+-5	3
+-15	0
+-15	0.08
+-5	3.08
+
+4
+-15	0
+-5	-3
+-5	-3.08
+-15	-0.08
